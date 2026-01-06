@@ -1,0 +1,251 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Butter Chicken Hub #1,Bangalore,12:00-22:00
+2,Biryani House #2,Ahmedabad,12:00-22:00
+3,Paneer Paradise #3,Chennai,09:00-23:00
+4,Burger Junction #4,Hyderabad,11:00-24:00
+5,Burger Junction #5,Delhi,10:00-22:00
+6,Pizza Plaza #6,Delhi,09:00-23:00
+7,Butter Chicken Hub #7,Delhi,10:00-22:00
+8,Dessert Den #8,Noida,10:00-22:00
+9,Butter Chicken Hub #9,Pune,11:00-24:00
+10,Momos Mania #10,Chennai,10:00-22:00
+11,Tandoori Kingdom #11,Delhi,10:00-22:00
+12,Biryani House #12,Ahmedabad,11:00-24:00
+13,Biryani House #13,Kolkata,10:00-22:00
+14,Butter Chicken Hub #14,Mumbai,10:00-22:00
+15,Burger Junction #15,Mumbai,10:00-22:00
+16,Burger Junction #16,Mumbai,09:00-23:00
+17,Dessert Den #17,Mumbai,09:00-23:00
+18,Momos Mania #18,Hyderabad,09:00-23:00
+19,Biryani House #19,Bangalore,11:00-24:00
+20,Dessert Den #20,Mumbai,12:00-22:00
+21,Burger Junction #21,Pune,10:00-22:00
+22,Dessert Den #22,Delhi,10:00-22:00
+23,Tandoori Kingdom #23,Mumbai,11:00-24:00
+24,Burger Junction #24,Bangalore,10:00-22:00
+25,Shawarma Street #25,Bangalore,09:00-23:00
+26,Momos Mania #26,Kolkata,12:00-22:00
+27,Paneer Paradise #27,Mumbai,08:00-23:00
+28,Biryani House #28,Hyderabad,10:00-22:00
+29,Pizza Plaza #29,Hyderabad,09:00-23:00
+30,Tandoori Kingdom #30,Delhi,08:00-23:00
+31,Noodle Nation #31,Pune,12:00-22:00
+32,Paneer Paradise #32,Delhi,08:00-23:00
+33,Pizza Plaza #33,Delhi,09:00-23:00
+34,Burger Junction #34,Gurugram,08:00-23:00
+35,Noodle Nation #35,Ahmedabad,11:00-24:00
+36,Butter Chicken Hub #36,Kolkata,08:00-23:00
+37,Butter Chicken Hub #37,Mumbai,10:00-22:00
+38,Tandoori Kingdom #38,Delhi,10:00-22:00
+39,Butter Chicken Hub #39,Pune,11:00-24:00
+40,Noodle Nation #40,Bangalore,09:00-23:00
+41,Noodle Nation #41,Delhi,10:00-22:00
+42,Momos Mania #42,Hyderabad,12:00-22:00
+43,Paneer Paradise #43,Delhi,10:00-22:00
+44,Biryani House #44,Gurugram,10:00-22:00
+45,Shawarma Street #45,Mumbai,09:00-23:00
+46,Dessert Den #46,Pune,08:00-23:00
+47,Butter Chicken Hub #47,Mumbai,10:00-22:00
+48,Tandoori Kingdom #48,Hyderabad,11:00-24:00
+49,Butter Chicken Hub #49,Hyderabad,08:00-23:00
+50,Dessert Den #50,Mumbai,12:00-22:00
+51,Paneer Paradise #51,Ahmedabad,09:00-23:00
+52,Momos Mania #52,Kolkata,12:00-22:00
+53,Noodle Nation #53,Gurugram,08:00-23:00
+54,Momos Mania #54,Noida,08:00-23:00
+55,Burger Junction #55,Hyderabad,08:00-23:00
+56,Butter Chicken Hub #56,Gurugram,12:00-22:00
+57,Biryani House #57,Delhi,08:00-23:00
+58,Burger Junction #58,Mumbai,12:00-22:00
+59,Paneer Paradise #59,Delhi,08:00-23:00
+60,Butter Chicken Hub #60,Mumbai,11:00-24:00
+61,Burger Junction #61,Bangalore,08:00-23:00
+62,Butter Chicken Hub #62,Mumbai,12:00-22:00
+63,Tandoori Kingdom #63,Kolkata,10:00-22:00
+64,Paneer Paradise #64,Bangalore,08:00-23:00
+65,Shawarma Street #65,Mumbai,10:00-22:00
+66,Noodle Nation #66,Hyderabad,11:00-24:00
+67,Pizza Plaza #67,Delhi,09:00-23:00
+68,Noodle Nation #68,Kolkata,11:00-24:00
+69,Noodle Nation #69,Delhi,08:00-23:00
+70,Burger Junction #70,Ahmedabad,10:00-22:00
+71,Paneer Paradise #71,Kolkata,10:00-22:00
+72,Butter Chicken Hub #72,Mumbai,12:00-22:00
+73,Momos Mania #73,Delhi,10:00-22:00
+74,Pizza Plaza #74,Kolkata,12:00-22:00
+75,Dessert Den #75,Chennai,09:00-23:00
+76,Burger Junction #76,Chennai,08:00-23:00
+77,Pizza Plaza #77,Kolkata,12:00-22:00
+78,Shawarma Street #78,Delhi,09:00-23:00
+79,Tandoori Kingdom #79,Bangalore,10:00-22:00
+80,Paneer Paradise #80,Delhi,10:00-22:00
+81,Dessert Den #81,Noida,09:00-23:00
+82,Burger Junction #82,Pune,10:00-22:00
+83,Noodle Nation #83,Mumbai,09:00-23:00
+84,Biryani House #84,Delhi,12:00-22:00
+85,Burger Junction #85,Mumbai,12:00-22:00
+86,Biryani House #86,Mumbai,09:00-23:00
+87,Noodle Nation #87,Chennai,12:00-22:00
+88,Tandoori Kingdom #88,Pune,12:00-22:00
+89,Paneer Paradise #89,Noida,12:00-22:00
+90,Butter Chicken Hub #90,Bangalore,11:00-24:00
+91,Burger Junction #91,Delhi,08:00-23:00
+92,Momos Mania #92,Chennai,10:00-22:00
+93,Noodle Nation #93,Chennai,11:00-24:00
+94,Burger Junction #94,Hyderabad,12:00-22:00
+95,Shawarma Street #95,Kolkata,09:00-23:00
+96,Tandoori Kingdom #96,Hyderabad,12:00-22:00
+97,Shawarma Street #97,Hyderabad,08:00-23:00
+98,Pizza Plaza #98,Bangalore,12:00-22:00
+99,Paneer Paradise #99,Delhi,09:00-23:00
+100,Pizza Plaza #100,Delhi,08:00-23:00
+101,Burger Junction #101,Delhi,12:00-22:00
+102,Dessert Den #102,Pune,08:00-23:00
+103,Dessert Den #103,Mumbai,10:00-22:00
+104,Paneer Paradise #104,Hyderabad,10:00-22:00
+105,Momos Mania #105,Gurugram,12:00-22:00
+106,Tandoori Kingdom #106,Mumbai,08:00-23:00
+107,Momos Mania #107,Bangalore,09:00-23:00
+108,Tandoori Kingdom #108,Chennai,12:00-22:00
+109,Noodle Nation #109,Mumbai,10:00-22:00
+110,Burger Junction #110,Delhi,10:00-22:00
+111,Pizza Plaza #111,Mumbai,12:00-22:00
+112,Dessert Den #112,Delhi,08:00-23:00
+113,Shawarma Street #113,Gurugram,10:00-22:00
+114,Butter Chicken Hub #114,Kolkata,08:00-23:00
+115,Biryani House #115,Pune,10:00-22:00
+116,Butter Chicken Hub #116,Noida,10:00-22:00
+117,Pizza Plaza #117,Kolkata,11:00-24:00
+118,Pizza Plaza #118,Mumbai,10:00-22:00
+119,Tandoori Kingdom #119,Noida,09:00-23:00
+120,Momos Mania #120,Hyderabad,12:00-22:00
+121,Butter Chicken Hub #121,Kolkata,12:00-22:00
+122,Tandoori Kingdom #122,Noida,08:00-23:00
+123,Tandoori Kingdom #123,Mumbai,10:00-22:00
+124,Momos Mania #124,Delhi,09:00-23:00
+125,Shawarma Street #125,Mumbai,08:00-23:00
+126,Dessert Den #126,Bangalore,11:00-24:00
+127,Paneer Paradise #127,Kolkata,08:00-23:00
+128,Dessert Den #128,Noida,08:00-23:00
+129,Biryani House #129,Delhi,10:00-22:00
+130,Butter Chicken Hub #130,Hyderabad,11:00-24:00
+131,Dessert Den #131,Bangalore,08:00-23:00
+132,Paneer Paradise #132,Mumbai,09:00-23:00
+133,Noodle Nation #133,Delhi,09:00-23:00
+134,Butter Chicken Hub #134,Mumbai,12:00-22:00
+135,Paneer Paradise #135,Gurugram,11:00-24:00
+136,Tandoori Kingdom #136,Mumbai,11:00-24:00
+137,Pizza Plaza #137,Hyderabad,12:00-22:00
+138,Shawarma Street #138,Chennai,08:00-23:00
+139,Biryani House #139,Bangalore,11:00-24:00
+140,Paneer Paradise #140,Ahmedabad,09:00-23:00
+141,Dessert Den #141,Ahmedabad,09:00-23:00
+142,Pizza Plaza #142,Mumbai,10:00-22:00
+143,Dessert Den #143,Hyderabad,11:00-24:00
+144,Butter Chicken Hub #144,Mumbai,08:00-23:00
+145,Paneer Paradise #145,Mumbai,12:00-22:00
+146,Dessert Den #146,Delhi,12:00-22:00
+147,Momos Mania #147,Pune,08:00-23:00
+148,Burger Junction #148,Hyderabad,10:00-22:00
+149,Pizza Plaza #149,Delhi,12:00-22:00
+150,Noodle Nation #150,Mumbai,11:00-24:00
+151,Pizza Plaza #151,Gurugram,10:00-22:00
+152,Dessert Den #152,Mumbai,11:00-24:00
+153,Dessert Den #153,Delhi,09:00-23:00
+154,Biryani House #154,Hyderabad,10:00-22:00
+155,Momos Mania #155,Ahmedabad,12:00-22:00
+156,Noodle Nation #156,Mumbai,10:00-22:00
+157,Shawarma Street #157,Pune,10:00-22:00
+158,Biryani House #158,Chennai,10:00-22:00
+159,Butter Chicken Hub #159,Mumbai,10:00-22:00
+160,Noodle Nation #160,Chennai,11:00-24:00
+161,Paneer Paradise #161,Bangalore,09:00-23:00
+162,Burger Junction #162,Pune,08:00-23:00
+163,Biryani House #163,Pune,10:00-22:00
+164,Burger Junction #164,Hyderabad,12:00-22:00
+165,Momos Mania #165,Delhi,10:00-22:00
+166,Butter Chicken Hub #166,Kolkata,12:00-22:00
+167,Butter Chicken Hub #167,Mumbai,11:00-24:00
+168,Shawarma Street #168,Mumbai,12:00-22:00
+169,Butter Chicken Hub #169,Delhi,08:00-23:00
+170,Dessert Den #170,Hyderabad,09:00-23:00
+171,Pizza Plaza #171,Pune,12:00-22:00
+172,Pizza Plaza #172,Delhi,12:00-22:00
+173,Shawarma Street #173,Hyderabad,09:00-23:00
+174,Dessert Den #174,Mumbai,08:00-23:00
+175,Pizza Plaza #175,Pune,10:00-22:00
+176,Paneer Paradise #176,Delhi,12:00-22:00
+177,Dessert Den #177,Chennai,09:00-23:00
+178,Momos Mania #178,Bangalore,11:00-24:00
+179,Tandoori Kingdom #179,Gurugram,09:00-23:00
+180,Burger Junction #180,Delhi,11:00-24:00
+181,Dessert Den #181,Bangalore,08:00-23:00
+182,Burger Junction #182,Delhi,10:00-22:00
+183,Paneer Paradise #183,Gurugram,09:00-23:00
+184,Tandoori Kingdom #184,Noida,12:00-22:00
+185,Noodle Nation #185,Mumbai,08:00-23:00
+186,Shawarma Street #186,Pune,09:00-23:00
+187,Dessert Den #187,Kolkata,12:00-22:00
+188,Shawarma Street #188,Hyderabad,09:00-23:00
+189,Butter Chicken Hub #189,Hyderabad,11:00-24:00
+190,Burger Junction #190,Mumbai,09:00-23:00
+191,Burger Junction #191,Delhi,09:00-23:00
+192,Butter Chicken Hub #192,Noida,09:00-23:00
+193,Noodle Nation #193,Gurugram,08:00-23:00
+194,Biryani House #194,Pune,09:00-23:00
+195,Momos Mania #195,Mumbai,12:00-22:00
+196,Dessert Den #196,Bangalore,11:00-24:00
+197,Burger Junction #197,Chennai,11:00-24:00
+198,Momos Mania #198,Noida,09:00-23:00
+199,Burger Junction #199,Noida,08:00-23:00
+200,Biryani House #200,Kolkata,08:00-23:00
+201,Butter Chicken Hub #201,Pune,12:00-22:00
+202,Biryani House #202,Delhi,09:00-23:00
+203,Burger Junction #203,Delhi,11:00-24:00
+204,Butter Chicken Hub #204,Noida,08:00-23:00
+205,Biryani House #205,Pune,09:00-23:00
+206,Noodle Nation #206,Delhi,08:00-23:00
+207,Butter Chicken Hub #207,Delhi,08:00-23:00
+208,Dessert Den #208,Pune,11:00-24:00
+209,Burger Junction #209,Delhi,10:00-22:00
+210,Paneer Paradise #210,Delhi,12:00-22:00
+211,Shawarma Street #211,Hyderabad,12:00-22:00
+212,Burger Junction #212,Chennai,11:00-24:00
+213,Dessert Den #213,Pune,08:00-23:00
+214,Pizza Plaza #214,Mumbai,09:00-23:00
+215,Momos Mania #215,Chennai,08:00-23:00
+216,Momos Mania #216,Mumbai,11:00-24:00
+217,Shawarma Street #217,Mumbai,12:00-22:00
+218,Burger Junction #218,Chennai,08:00-23:00
+219,Shawarma Street #219,Pune,12:00-22:00
+220,Tandoori Kingdom #220,Noida,09:00-23:00
+221,Burger Junction #221,Pune,12:00-22:00
+222,Butter Chicken Hub #222,Hyderabad,12:00-22:00
+223,Butter Chicken Hub #223,Delhi,10:00-22:00
+224,Tandoori Kingdom #224,Bangalore,10:00-22:00
+225,Noodle Nation #225,Mumbai,10:00-22:00
+226,Tandoori Kingdom #226,Mumbai,12:00-22:00
+227,Tandoori Kingdom #227,Ahmedabad,11:00-24:00
+228,Shawarma Street #228,Bangalore,12:00-22:00
+229,Biryani House #229,Noida,11:00-24:00
+230,Butter Chicken Hub #230,Pune,11:00-24:00
+231,Biryani House #231,Kolkata,10:00-22:00
+232,Tandoori Kingdom #232,Hyderabad,08:00-23:00
+233,Noodle Nation #233,Hyderabad,09:00-23:00
+234,Butter Chicken Hub #234,Hyderabad,10:00-22:00
+235,Burger Junction #235,Mumbai,10:00-22:00
+236,Burger Junction #236,Chennai,08:00-23:00
+237,Burger Junction #237,Mumbai,09:00-23:00
+238,Dessert Den #238,Delhi,12:00-22:00
+239,Shawarma Street #239,Pune,12:00-22:00
+240,Pizza Plaza #240,Delhi,10:00-22:00
+241,Tandoori Kingdom #241,Gurugram,09:00-23:00
+242,Pizza Plaza #242,Ahmedabad,10:00-22:00
+243,Paneer Paradise #243,Gurugram,11:00-24:00
+244,Shawarma Street #244,Bangalore,10:00-22:00
+245,Burger Junction #245,Delhi,10:00-22:00
+246,Butter Chicken Hub #246,Gurugram,12:00-22:00
+247,Shawarma Street #247,Bangalore,12:00-22:00
+248,Dessert Den #248,Ahmedabad,12:00-22:00
+249,Butter Chicken Hub #249,Ahmedabad,11:00-24:00
+250,Biryani House #250,Noida,12:00-22:00
